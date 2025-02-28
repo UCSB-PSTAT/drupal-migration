@@ -1,0 +1,7 @@
+{
+  "dockerFile": "containerfile",
+  "mounts": [
+    "source=/home/${localEnv:USER}/.ssh,target=/root/ssh,type=bind,readonly"
+  ],
+  "updateContentCommand": "mkdir -p /root/.ssh && cp -r /root/ssh/* /root/.ssh/"
+}
