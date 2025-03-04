@@ -47,6 +47,8 @@ terminus composer ${SITE_ENV} -- require 'league/commonmark'
 terminus composer ${SITE_ENV} -- require 'drupal/markdown_importer:^1.0'
 ```
 
+This will change the `composer.json` and `composer.lock` files. As a result, the changes need to be committed via SFTP using the Pantheon commit interface. This will then persist the changes in the multidev site and allow the use of Markdown Importer.
+
 ## Processing Original HTML Files
 
 Using the sitemap URL list, we run the following script:
