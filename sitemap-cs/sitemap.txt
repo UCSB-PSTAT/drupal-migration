@@ -1,0 +1,148 @@
+Computer Science - UC Santa Barbara
+├── About
+│   ├── Chair's Message
+│   ├── Department Leadership Committees
+│   └── Department Contact Information
+├── Research
+│   ├── Research Centers
+│   ├── Tech Reports
+│   ├── Laboratories
+│   └── PI Resources
+├── Education
+│   ├── Graduate
+│   │   ├── Overview
+│   │   ├── PhD Degree
+│   │   ├── Master's Degree
+│   │   ├── BS/MS
+│   │   ├── How to Apply
+│   │   ├── Resources
+│   │   └── Contact
+│   ├── Undergraduate
+│   │   ├── Overview
+│   │   ├── Prospective Students
+│   │   ├── Current Students
+│   │   ├── Upper Division Elective Tracks
+│   │   ├── Special Programs
+│   │   ├── Learning Assistant Program
+│   │   └── Contact
+│   ├── Courses
+│   │   ├── Overview
+│   │   ├── Special Topics Seminars
+│   │   ├── Course Descriptions
+│   │   └── Graduate Courses and Their Area Classifications
+├── Diversity, Equity, and Inclusion
+│   ├── Code of Conduct
+│   ├── Chair Committee Members
+│   └── Strategic Action Plan
+├── People
+│   ├── Faculty
+│   ├── Staff
+│   ├── Advisory Board
+│   ├── Computer Science Affiliates
+│   └── CS Researchers
+├── Happenings
+│   ├── Events Calendar
+│   ├── Summit CS
+│   │   ├── Welcome
+│   │   └── Contact Us
+│   ├── Array Talks
+│   │   ├── Anna Patterson
+│   │   ├── Randy Modos and Giovanni Vigna
+│   │   ├── Brian Fox
+│   │   ├── Imposter Panel
+│   │   └── Panel Reports Your Future
+│   ├── News Archive
+│   ├── Awards
+│   │   ├── Pranjali Jain Awarded 2024 IBM PhD Fellowship
+│   │   ├── Professors Elizabeth Belding and Arpit Gupta Honored
+│   │   ├── CRA Outstanding Undergraduate Research Honorable Mentions
+│   │   ├── Michael Beyeler Receives Prestigious Faculty Award
+│   │   ├── Vaishnavi Himakunthala Receives Outstanding Collegiate Member Award
+│   │   ├── Richert Wang Earns 2023-24 UCSB Distinguished Teaching Award
+│   │   ├── Divyakant Agrawal, Amr El Abbadi, and Mohammad Javad Amiri Receive Outstanding Paper
+│   │   ├── NSF Awards Graduate Research Fellowships to Haarika Manda and Joyce Passananti
+│   │   ├── Liangming Pan Wins IJCNLP-AACL Area Chairs Award
+│   │   ├── Congratulations to CS Emeriti Wim Van Dam, Omer Egecioglu, and John Gilbert
+│   │   ├── Justin Tjoa Receives NSF CSGrad4US Fellowship
+│   │   ├── Ishtiyaque Ahmad Receives Prestigious IBM PhD Fellowship Award
+│   │   ├── Jonathan Balkind Receives OSHWA Open Hardware Trailblazers Fellowship
+│   │   ├── Paper by Yanju Chen, Xifeng Yan, and Yu Feng Selected for Distinguished Paper Award
+│   │   ├── Congratulations to CS Alumnus Awardees
+│   │   ├── Congratulations to CS Undergraduate Awardees
+│   │   ├── Congratulations to CS Graduate Student Awardees
+│   │   ├── End of Year Awards in CS Department
+│   │   ├── Professor Amr El Abbadi Named Outstanding Faculty in Computer Science 2020-2021
+│   │   ├── Ori Mizrahi, Sam Pettus, Alan Roddick, and Abby Wysopal Awarded Distinction in Major
+│   │   ├── Vaishali Surianarayanan Selected for Outstanding Teaching Assistant Award
+│   │   ├── Zoran Dimitrijevic Selected for Distinguished Graduate Alumnus Award
+│   │   ├── Sophie Groenwold, Samhita Honnavalli, Lily Ou, and Aesha Parekh Selected for CS
+│   │   ├── Yuke Wang, Peter Gartland, and Ishtiyaque Ahmad Selected for Outstanding Publication
+│   │   ├── Amit Jardosh Selected for Distinguished Graduate Alumnus Award
+│   │   ├── Nathan Wu Selected for CS Outstanding Undergraduate Research Award
+│   │   ├── Wenhu Chen Selected for Outstanding Dissertation Award
+│   │   ├── Gautam Mundewadi Selected for Rising Stars Mentoring Award
+│   │   ├── Will Eiers Selected for Outstanding Graduate Student Award
+│   │   ├── Arthur Gatin and Sara Mandic Selected for CS Outstanding Mentor Award
+│   │   ├── Daniel Shu Selected for Outstanding Graduate Student Award Honorable Mention
+│   │   ├── Abby Wysopal, Kiet Nguyen, Scribe Brent Luker, Michael Hau, and Ryan Mitchell
+│   │   ├── April Sanchez Selected for Computer Science Student of the Year Award
+│   │   ├── Qinghang Hong, Junfeng Liu, Tony Sun, Nathan Wu, Ziheng Yan, and Bella Yue Awarded
+│   │   ├── Michael Christensen Selected for College of Engineering Outstanding Teaching Assistant
+│   │   ├── Alex Cyriac Selected for Distinguished Undergraduate Alumnus Award
+│   │   ├── Kerem Celik, Sam Dunn, and Tony Sun Awarded College of Engineering Outstanding Senior
+│   │   ├── Jack Kilgore Given Chancellor's Award for Excellence in Undergraduate Research
+│   │   ├── April Sanchez Awarded College of Engineering John and Sheila Lake Excellence Award
+│   │   └── Tony Sun Awarded College of Engineering Tirrell Award for Distinction in Undergraduate Research
+│   ├── Announcements
+│   │   ├── CS Talk: Robin Hillary Kravets
+│   │   ├── CS Talk: Chi Wang
+│   │   ├── Colloquium: Flavien Solt
+│   │   ├── Colloquium: Yangruibo Ding
+│   │   ├── CS Talk: Adam Blank
+│   │   ├── Two Junior Faculty Become Associate Professors
+│   │   ├── CS Department Honors 2024 Alumni Awardees
+│   │   ├── CS Department Honors 2024 Graduate Student Awardees
+│   │   ├── CS Department Honors 2024 Undergraduate Awardees
+│   │   ├── Promotions: Congratulations to Associate Professors Lei Li and Yu Xiang Wang
+│   │   ├── Promotion: Congratulations to Professor William Wang
+│   │   ├── Join Us in Welcoming Maryam Majedi to UCSB Computer Science Department
+│   │   ├── UCSB Computer Science Powering Next Generation Data Management Tools
+│   │   ├── CS Department Honors Alumni Awardees at 2023 Award Ceremony
+│   │   ├── Our 2023 CS Graduate Awardees Win Big
+│   │   ├── Congratulations to 2023 CS Undergraduate Awardees
+│   │   ├── GauchoAI Places 2nd in Alexa Prize Simbot Challenge
+│   │   ├── CS Distinguished Lecture: Maria Chudnovsky
+│   │   ├── CS Colloquium: Murphy Niu from Google Quantum AI Team
+│   │   ├── CS Colloquium: Sanjukta Krishnagopal
+│   │   ├── CS Colloquium: Arijit Shaw
+│   │   ├── UCSB to Lead NSF-Funded Research Institute for Next-Level AI-Powered Cybersecurity
+│   │   ├── CS Colloquium: Hrushikesh Mhaskar
+│   │   ├── CS Talk: Xuan Zhang
+│   │   ├── Yujie Lu Receives Best Paper Award at CHI 2023
+│   │   ├── Marianne Arriola Receives NSF's Prestigious Graduate Research Fellowship
+│   │   ├── CS Colloquium: James Xi Zheng
+│   │   ├── New Book: Fibonacci Cubes - Applications and Variations
+│   │   ├── CS Theory Colloquium: David Aldous from UC Berkeley
+│   │   ├── CS Colloquium: Hengrui Cai
+│   │   ├── NLP Seminar: Sameena Shah
+│   │   ├── CS Colloquium: Cong Hao
+│   │   ├── CS Colloquium: Muhao Chen
+│   │   ├── Cancelled: CS Colloquium with Khaled Abdel-Ghaffar
+│   │   ├── CS Colloquium: Denny Zhou
+│   │   ├── CS Colloquium: Ang Li
+│   │   ├── CS Colloquium: Leana Golubchik
+│   │   ├── Theory Colloquium: Anupam Gupta
+│   │   ├── CS Talk: Mathias Payer
+│   │   ├── CS Colloquium: Veljko Pejovic
+│   │   └── Announcements Archive
+├── Get Involved
+├── Open Positions
+├── Information For
+│   ├── Technical Support
+│   ├── Facilities
+│   ├── Room Schedules and Reservations
+│   ├── Emergency Safety Information
+│   ├── Family Resources
+│   └── Budget and Travel Reimbursements
+├── Accessibility
+└── Sitemap

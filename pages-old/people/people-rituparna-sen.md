@@ -1,0 +1,32 @@
+# people-rituparna-sen
+
+# Rituparna Sen
+
+Visiting Associate Professor
+
+[rituparna@ucsb.edu](mailto:rituparna@ucsb.edu)
+
+## Office Location:
+
+Old Gym 1203
+
+## Website:
+
+[Personal Website](https://www.isibang.ac.in/~rsen/)
+
+## People Menu
+
+- [Faculty](/people/academic "Faculty")
+- [Emeriti](/people/emeriti "Emeriti")
+- [Visiting Faculty](/people/visiting "Visiting Faculty")
+- [Former Visiting Instructors](/people/lecturer "Former Visiting Instructors")
+- [Staff](/people/staff)
+- [Staff Student Assistant](/people/researcher "Staff Student Assistant")
+- [Graduate Students](/people/student "Graduate Students")
+  
+  - [PhD Students](/people/student/phd "PhD Students")
+  - [Masters Students](/people/student/masters "Masters Students")
+- [Alumni](/people/alumni)
+- [All](/people/all)
+
+[Meet the Faculty](/people/meet-the-faculty)

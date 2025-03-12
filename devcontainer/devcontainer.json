@@ -1,0 +1,17 @@
+{
+	"name": "Mathpix",
+	"build": {
+		"dockerfile": "Containerfile",
+		"context": ".."
+	},
+	"remoteUser": "ubuntu",
+	"workspaceMount": "source=${localWorkspaceFolder},target=/home/ubuntu/work,type=bind,consistency=cached",
+	"workspaceFolder": "/home/ubuntu/work",
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"terminal.integrated.defaultProfile.linux": "zsh"
+			}
+		}
+	}
+}

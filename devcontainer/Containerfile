@@ -1,8 +1,10 @@
-FROM docker.io/ubuntu:24.04
+FROM ubuntu:24.04
 
-ARG DEBIAN_FRONTEND=noninteractive
-ENV LANG en_US.UTF-8
-ENV LANGUAGE en_US:en
+# Install necessary packages with proper APT settings to avoid interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Set locale to English
+ENV LANG="en_US.UTF-8"
 
 RUN apt-get update && apt-get install -y \
     sudo \
@@ -18,29 +20,13 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/* \
     && locale-gen en_US.UTF-8
 
-# Install PHP 8.3 and required extensions
-RUN apt-get update && apt-get install -y \
-    software-properties-common curl && \
-    add-apt-repository ppa:ondrej/php && \
-    apt-get update && apt-get install -y \
-    php8.3 \
-    php8.3-xml \
-    php8.3-mbstring \
-    php8.3-curl \
-    php8.3-cli \
-    composer \
-    git \
-    openssh-client
-
-RUN curl -L https://github.com/pantheon-systems/terminus/releases/download/3.6.1/terminus.phar \
-        --output /usr/local/bin/terminus \
-    && chmod +x /usr/local/bin/terminus \
-    && /usr/local/bin/terminus self:update
-
 # Create ubuntu user with home directory if it does not exist
 RUN id -u ubuntu &>/dev/null || useradd -m -s /usr/bin/zsh ubuntu && \
     echo "ubuntu ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/ubuntu && \
     chmod 0440 /etc/sudoers.d/ubuntu
+
+# Install Mathpix CLI
+RUN npm install -g @mathpix/mpx-cli
 
 # Set environment variable for zsh
 ENV SHELL=/usr/bin/zsh

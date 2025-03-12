@@ -1,7 +1,13 @@
 {
   "dockerFile": "containerfile",
+	"remoteUser": "ubuntu",
+	"workspaceMount": "source=${localWorkspaceFolder},target=/home/ubuntu/work,type=bind,consistency=cached",
+	"workspaceFolder": "/home/ubuntu/work",
   "mounts": [
-    "source=/home/${localEnv:USER}/.ssh,target=/root/ssh,type=bind,readonly"
+    "source=/home/${localEnv:USER}/.ssh,target=/home/ubuntu/ssh,type=bind,readonly"
   ],
-  "updateContentCommand": "mkdir -p /root/.ssh && cp -r /root/ssh/* /root/.ssh/"
+  "updateContentCommand": "mkdir -p /home/ubuntu/.ssh && cp -r /home/ubuntu/ssh/* /home/ubuntu/.ssh/",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {}
+  }
 }

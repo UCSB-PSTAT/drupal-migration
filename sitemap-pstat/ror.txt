@@ -1,0 +1,255 @@
+Department of Statistics and Applied Probability - UC Santa Barbara
+├── About
+│   ├── Employment
+│   ├── Research
+│   ├── Welcome
+│   ├── Mission
+│   ├── History
+│   ├── Diversity, Equity and Inclusion
+│   ├── Awards
+│   ├── Administration
+│   ├── Contact Us
+│   └── Visiting
+├── Undergraduate
+│   ├── Change of Major Policy
+│   ├── Majors
+│   │   ├── BA in Statistics and Data Science
+│   │   ├── BS in Statistics and Data Science
+│   │   ├── BS in Actuarial Science
+│   │   ├── BS in Financial Mathematics and Statistics
+│   └── Minor in Statistical Science
+│   ├── Research
+│   ├── Scholarships
+│   ├── Student Clubs
+│   ├── Advising
+│   ├── Resources
+│   │   ├── DataLab
+│   │   ├── Tutors
+│   │   ├── Course Repeat Policy
+│   │   └── FAQs
+├── Graduate
+│   ├── PhD in Statistics and Applied Probability
+│   ├── MA in Statistics
+│   ├── BS/MS in Actuarial Science
+│   ├── Area Requirements
+│   ├── Prospective Students
+│   ├── Financial Support
+│   ├── Current Graduate Students
+│   └── Graduate Alumni
+├── Courses
+│   ├── Class Waiting Lists
+│   └── Textbooks
+├── Resources
+│   ├── Mail Room Copier
+│   ├── Travel
+│   ├── Reimbursements
+│   ├── Room Reservation
+│   ├── Forms
+│   ├── Calendars
+│   ├── Email
+│   ├── Wireless Access
+│   ├── Contracts and Grants
+│   ├── Instructor Resources
+│   ├── TA Resources
+│   ├── Computing
+│   │   ├── Statlab
+│   │   ├── Lab Use & Accounts
+│   │   ├── File Management
+│   │   ├── Software
+│   │   ├── Compute Cluster
+│   │   ├── RAS Cluster
+│   │   ├── RStudio Server
+│   │   ├── Web Site Publishing
+│   │   └── Digital Petitions
+│   ├── Useful Academic Links
+│   └── Member Resources
+├── People
+│   ├── Academic
+│   ├── Staff
+│   ├── Emeriti
+│   ├── Visiting
+│   ├── Lecturer
+│   ├── Researcher
+│   ├── Student
+│   │   ├── PhD Students
+│   │   └── Masters Students
+│   ├── Alumni
+│   ├── All
+│   ├── Meet the Faculty
+│   └── Individual Profiles
+│       ├── Andrew Carter
+│       ├── Raya Feldman
+│       ├── Jean-Pierre Fouque
+│       ├── Alexander Franks
+│       ├── Mengyang Gu
+│       ├── Dawn Holmes
+│       ├── Ruimeng Hu
+│       ├── Tomoyuki Ichiba
+│       ├── S. Rao Jammalamadaka
+│       ├── Michael Ludkovski
+│       ├── Wendy Meiring
+│       ├── Jack Miller
+│       ├── Sang-Yun Oh
+│       ├── Hal Pedersen
+│       ├── Gareth Peters
+│       ├── Uma Ravat
+│       ├── Alexander Shkolnik
+│       ├── Yuedong Wang
+│       ├── Guo Yu
+│       ├── Julianne Swenson
+│       ├── Kallie Hill
+│       ├── Alan Mojarro Franco
+│       ├── Myranda Flores
+│       ├── Ellery Wilkie
+│       ├── Yan Lashchev
+│       ├── Jessie Priestley
+│       ├── Nils-Christian Detering
+│       ├── Christina Ahn
+│       ├── Andrea Angiuli
+│       ├── Xueyin Bai
+│       ├── Guoqiang Chen
+│       ├── Yuqi Chen
+│       ├── Zihao Chen
+│       ├── Ming Cheng
+│       ├── Pedro Cisneros-Velarde
+│       ├── Karry Deng
+│       ├── Hao Dong
+│       ├── Shuyan Dong
+│       ├── Qiufu Du
+│       ├── Siyang (Karen) Du
+│       ├── Yifei Fan
+│       ├── Qian Gai
+│       ├── Tong Gao
+│       ├── Christian Go
+│       ├── Wenlu Gou
+│       ├── Yanjiang Guo
+│       ├── Yuval Halperin
+│       ├── Xinzhi Han
+│       ├── Elijah Castro
+│       ├── Yifan Chen
+│       ├── Jean Choe
+│       ├── Monte Davityan
+│       ├── Ethyn Deamos
+│       ├── Sarkis Der Wartanian
+│       ├── Sunpeng Duan
+│       ├── Seyit Emre Duzoylum
+│       ├── Inga Guðrún Eiríksdóttir
+│       ├── Denisse Escobar Parra
+│       ├── Chenxi Fan
+│       ├── Xiang Fang
+│       ├── Xinyi Fang
+│       ├── Eric Feng
+│       ├── Liang Feng
+│       ├── Lucas Hahn-De-Castro
+│       ├── Mingzhu He
+│       ├── Yue He
+│       ├── Kai Wa Ho
+│       ├── Mingzhao Hu
+│       ├── Zexing Hu
+│       ├── Xinyin Huang
+│       ├── Lauren Hughes
+│       ├── John Inston
+│       ├── Huiyu Jiang
+│       ├── Botao Jin
+│       ├── Zhuoli Jin
+│       ├── Isaiah Katz
+│       ├── Ateeb Khan
+│       ├── Blythe King
+│       ├── Ka Lok Lam
+│       ├── Summer Le
+│       ├── Sean Lee
+│       ├── Youhong Lee
+│       ├── Chunyin Lei
+│       ├── Ronald Lencevicius
+│       ├── Ancher Li
+│       ├── Chang Yuan Li
+│       ├── Hanmo Li
+│       ├── Hao Li
+│       ├── Muxi Li
+│       ├── Qiqi Li
+│       ├── Yuning Li
+│       ├── Jimin Lin
+│       ├── Tong Lin
+│       ├── Yizi Lin
+│       ├── Mengye Liu
+│       ├── Robin Liu
+│       ├── Tianhong Liu
+│       ├── Xubo Liu
+│       ├── Lucy Lu
+│       ├── Zhuojun Lyu
+│       ├── Xiaoran (Daniel) Ma
+│       ├── Yuting Ma
+│       ├── Ethan Marzban
+│       ├── Bushra Masood
+│       ├── Matthew McDonough
+│       ├── Erika McPhillips
+│       ├── Juan Mejia Becerra
+│       ├── Kabo Mosetse
+│       ├── Olivier Mulkin
+│       ├── Christophor Muzquiz
+│       ├── John O'Brien
+│       ├── Doris Padilla
+│       ├── Minwoo Park
+│       ├── Gabrielle Salo
+│       ├── Sicheng Shen
+│       ├── Qijin Shi
+│       ├── Daniel Silva
+│       ├── Cyrus Tabatabai-Yazdi
+│       ├── Yuxi Tan
+│       ├── Jason Teng
+│       ├── Nickolas Thiessen
+│       ├── Manan Vats
+│       ├── Huy Hoang Vu
+│       ├── Erchi Wang
+│       ├── Jen Wang
+│       ├── Ke Wang
+│       ├── Mallory Wang
+│       ├── Yaqiao (Darcy) Wang
+│       ├── Yaxuan Wang
+│       ├── Yixin (Victoria) Wang
+│       ├── Jeffrey Wu
+│       ├── Jiaxi (Josh) Wu
+│       ├── Lihao Xiao
+│       ├── Yeming (Shawn) Xiao
+│       ├── Kathleen Xie
+│       ├── Xiangyu Xie
+│       ├── Moya Xiong
+│       ├── Kaixiang Xu
+│       ├── Jisu Yu
+│       ├── Miaoqing Yu
+│       ├── Jacqueline Zawada
+│       ├── Hezhong Zhang
+│       ├── Mengrui Zhang
+│       ├── Sean Zhang
+│       ├── Sibei (Bella) Zhong
+│       ├── Haosheng Zhou
+│       ├── Xuanyi Zhou
+│       ├── Yuan Zhou
+│       ├── Xiaoqian Zhu
+│       ├── Zimo Zhu
+│       └── Xiangyu Xie
+├── Alumni
+├── Announcements
+├── Giving
+├── Accessibility
+├── News
+│   ├── Calendar
+│   │   ├── Day
+│   │   ├── Week
+│   │   ├── Year
+│   ├── Event Archive
+│   ├── Seminar Archive
+│   ├── Announcement Archive
+│   ├── Faculty Awards
+│   ├── Student Awards
+│   ├── Annual Sobel Lecture
+│   ├── Distinguished Lecture Series in Data Science
+│   ├── Conferences
+│   ├── Upcoming Seminars
+│   ├── Paliisads in AMStat News
+│   ├── WNAR Student Paper Award
+│   ├── Prof. Gu's NSF Grant
+│   ├── Modeling the impact of Socioeconomic Status and Lifestyle Factors on Cardiometabolic Disease Outcomes in the US: A Structural Equation Modeling (SEM) Approach
+│   ├── Adaptive and Scalable Nonparametric Estimation via Stochastic Optimization
+│   ├── Discrete Autoregressive Switching Processes in Sparse Graphical Modeling of Multivariate Time Series Data
+│   └── Research Office Hours
