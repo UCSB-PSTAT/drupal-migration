@@ -1,5 +1,11 @@
-# Give
+# Get Involved
 
-Information about how to support the Department of Statistics and Applied Probability through donations and endowments.
+TO ADD CONTENT DO THE FOLLOWING:
 
-<!-- Add giving information and opportunities here -->
+1. Edit page
+1. Select "Main Content"
+1. Scroll down until you see "Blades"
+1. Click "Edit" on the existing Blade
+1. Click "Edit" again for the column
+1. Remove this dialogue from the Body
+1. Add content using Markdown
