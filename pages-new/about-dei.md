@@ -1,11 +1,16 @@
 # Diversity, Equity, and Inclusion
 
-TO ADD CONTENT DO THE FOLLOWING:
+# Diversity, Equity, and Inclusion
 
-1. Edit page
-1. Select "Main Content"
-1. Scroll down until you see "Blades"
-1. Click "Edit" on the existing Blade
-1. Click "Edit" again for the column
-1. Remove this dialogue from the Body
-1. Add content using Markdown
+At its core, our department views diversity and inclusion as critical within our mission to educate and prepare the future workforce of data scientists and quantitative thinkers. Increasing diversity across our field is essential in creating more productive, representative, and enriching outcomes as well as innovative solutions to critical problems. We recognize that historically, the job markets and academic communities in statistical theory and methods, financial mathematics, and actuarial science have been weighted toward racial, gender, and socioeconomically privileged communities. We are dedicated to correcting this imbalance in our own community.
+
+## Resources
+
+- [Bias Incident Info and Reporting](#)
+- [Counseling & Psychological Services (CAPS)](#)
+- [Equal Opportunity & Discrimination Prevention Office](#)
+- [Campus Advocacy, Resources & Education (CARE)](#)
+- [Educational Opportunity Program (EOP)](#)
+- [Dream Scholars Resource Team](#)
+- [MultiCultural Center (MCC)](#)
+- [Resource Center for Sexual and Gender Diversity (RCSGD)](#)
